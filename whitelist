@@ -1,0 +1,6 @@
+WhitelistedUsers = {
+    [4310818724] = true, -- wage
+
+}
+
+return WhitelistedUsers
