@@ -1,6 +1,7 @@
 WhitelistedUsers = {
-    [4310818724] = true, -- wage
-
+    [4310818724] = true, -- wage account 1
+    [1295648693] = true, -- wage account 2
+    [4091151680] = true, -- wage account 3
 }
 
 return WhitelistedUsers
